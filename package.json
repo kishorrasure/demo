@@ -1,0 +1,14 @@
+{
+  "name": "26092018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kishor",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
